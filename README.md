@@ -1,6 +1,7 @@
 # Todo-List
 
-[▶️ Play demo](https://www.youtube.com/watch?v=VPMlRCYPFQw)
+[![▶️ Watch the demo](https://img.youtube.com/vi/VPMlRCYPFQw/hqdefault.jpg)](https://www.youtube.com/watch?v=VPMlRCYPFQw)
+
 
 
 A simple, clean Todo List web app for creating, managing, and organizing tasks. Designed for local development (runs at `http://localhost:3000/Todo-List`) and built with modern frontend tooling.
